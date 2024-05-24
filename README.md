@@ -4,5 +4,5 @@ Gosto de arquitetura urbana e moderna, paisagismo, luta,artes de rua , e artes m
 estamos desenvolvendo, projetos em java escripit no [alura](https://wwwalura.com.br) e se quiser entrar em contato ( se possivel não entre) este e o meu email:
 00001091413885sp@al.educacao.sp.gov.br
 🖤🥊🚭
-![(https://media1.tenor.com/m/Z0AsAyMamR4AAAAC/deivao-meia-noite-te-conto.gif)]
+![](https://media1.tenor.com/m/Z0AsAyMamR4AAAAC/deivao-meia-noite-te-conto.gif)
 [(alura)]
