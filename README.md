@@ -5,4 +5,4 @@ estamos desenvolvendo, projetos em java escripit no [alura](https://wwwalura.com
 00001091413885sp@al.educacao.sp.gov.br
 🖤🥊🚭
 ![](https://media1.tenor.com/m/Z0AsAyMamR4AAAAC/deivao-meia-noite-te-conto.gif)
-[(alura)]
+[(alura)]...
